@@ -1,0 +1,24 @@
+[
+    {
+        "category":"movies",
+        "name":"rocky",
+        "language":"hindi",
+        "votes": 4,
+        "genre":"all"
+    },
+    {
+        "category":"movies",
+        "name":"khush",
+        "language":"hindi",
+        "votes": 4,
+        "genre":"all"
+    },
+    {
+        "category":"movies",
+        "name":"raj",
+        "language":"hindi",
+        "votes": 4,
+        "genre":"all"
+    }
+
+]
